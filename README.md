@@ -18,5 +18,11 @@
 ![Screenshot (44)](https://user-images.githubusercontent.com/70838173/131533532-203f6578-8dcc-4d8d-bc45-334b66bef98f.png)
 ![Screenshot (45)](https://user-images.githubusercontent.com/70838173/131533534-635ca4d2-86a0-4d32-b249-2b326ac70d7a.png)
 ![Screenshot (46)](https://user-images.githubusercontent.com/70838173/131533537-b1ed288f-501f-498a-a918-853fa453a190.png)
+<br/>
 
-TASK-2: CREATE A REACT APP AND FETCH DATA USING API CALL
+
+#TASK-2: CREATE A REACT APP AND FETCH DATA USING API CALL
+
+![Screenshot (63)](https://user-images.githubusercontent.com/70838173/132193492-1b7b4a70-b310-4049-adf7-2cb9459b0ed6.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/70838173/132193496-bc540bad-4129-4a6b-9f67-96cd078bfc4e.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/70838173/132193502-5d4fc3ab-390d-417d-80f9-41b9869dd1cc.png)
